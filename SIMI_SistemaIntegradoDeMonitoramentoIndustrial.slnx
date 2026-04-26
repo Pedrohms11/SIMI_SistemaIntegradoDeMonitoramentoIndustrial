@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiProcessamento/ApiProcessamento.csproj" />
+  <Project Path="SensorInterface/SensorInterface.csproj" />
+  <Project Path="SensorSimulator/SensorSimulator.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
